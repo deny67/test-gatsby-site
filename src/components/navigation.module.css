@@ -17,5 +17,6 @@
 }
 
 .navigationItem a {
-  color: currentColor;
+  color: blue;
+  text-decoration: none;
 }
